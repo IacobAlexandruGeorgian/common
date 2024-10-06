@@ -1,0 +1,15 @@
+{
+    "name": "iacobalex/common",
+    "description": "This is a package for the Microservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iacob Alexandru",
+            "email": "iacobalex11@yahoo.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^10.0"
+    }
+}
